@@ -1,5 +1,6 @@
 BackEND
 CRUD basico completo ya funcionando sin errores.
+una sola tabla de usuarios
 
 
 FrontEND
